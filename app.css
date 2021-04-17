@@ -18,7 +18,7 @@ li {
     display: inline;
     padding: 10px;
     margin: 20px;
-    font-family: gotham, sans-serif;
+    font-family: roc-grotesk-wide, sans-serif;
     text-transform: uppercase;
     font-size: small;
     font-weight: bold;
@@ -40,7 +40,7 @@ h1{
 }
 
 h2 {
-    font-family: gotham, sans-serif;
+    font-family: roc-grotesk-wide, sans-serif;
     font-size: 18px;
     margin-left: 10%;
     margin-top: 10%;
@@ -51,7 +51,7 @@ h2 {
 }
 
 button{
-font-family: gotham, sans-serif;
+font-family: roc-grotesk-wide, sans-serif;
 text-transform: uppercase;
 font-size: normal;
 font-weight: 700;
@@ -320,7 +320,7 @@ footer {
 
 /* Hover Image */
 span {
-    font-family: gotham, sans-serif;
+    font-family: roc-grotesk-wide, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     color: #231F20;
@@ -345,6 +345,7 @@ span {
 }
 
 .paragraph{
+    font-family: roc-grotesk, sans-serif;
     opacity: 0;
     color:#F8EFD3;
     font-size: small;
